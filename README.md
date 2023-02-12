@@ -1,9 +1,11 @@
 
-# Final Project 2D- Burke
+# Final Project 2- Burke
 
-Exercise for MSCH-C220
+Project for MSCH-C220
 
 A basic space-shooter arcade game, created in Godot.
+
+Created on 2/11/2023 for MSCH-C 220 
 
 ## Implementation
 
@@ -15,11 +17,20 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 
 The Hyperspace typeface was developed by [Pixel Sagas](https://www.dafont.com/hyperspace.font) and is freely available for personal use.
 
+##Changes
+Added a background image to the "Main Menu" screen 
+Added a background image to the "In Game" screen.
+Added a "Black Hole" planet in which the player can interact with.
+
 ## References
-None
+https://github.com/JamlBurk/PixelPlanets
+https://kenney.nl/assets/simple-space
+https://kenney.nl/assets/space-shooter-redux
+https://opengameart.org/content/explosion-sheet
 
 ## Future Development
-Advanced features?
+Remove bug where backgroud image does not readjust with fullscreen window. 
+Remove bug where player can get caught inside the physics body associated with the "Black Hole" planet. 
 
 ## Created by
 James Burke
