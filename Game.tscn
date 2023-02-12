@@ -9,7 +9,7 @@
 [ext_resource path="res://Enemy/Planets/BlackHole/BlackHole.tscn" type="PackedScene" id=7]
 
 [sub_resource type="CircleShape2D" id=1]
-radius = 100.0
+radius = 90.0
 
 [node name="Game" type="Node2D"]
 __meta__ = {
