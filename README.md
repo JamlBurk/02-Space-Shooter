@@ -19,7 +19,9 @@ The Hyperspace typeface was developed by [Pixel Sagas](https://www.dafont.com/hy
 
 ## Changes
 Added a background image to the "Main Menu" screen 
+
 Added a background image to the "In Game" screen.
+
 Added a "Black Hole" planet in which the player can interact with.
 
 ## References
@@ -33,6 +35,7 @@ https://opengameart.org/content/explosion-sheet
 
 ## Future Development
 Remove bug where backgroud image does not readjust with fullscreen window. 
+
 Remove bug where player can get caught inside the physics body associated with the "Black Hole" planet. 
 
 ## Created by
